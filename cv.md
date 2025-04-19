@@ -1,47 +1,44 @@
 # Alexander Volk
 
-#### [ [github](https://github.com/ky1e-cyber) ] . [ mail: sxrose1.o@gmail.com ] . [ tg: @sxrose1 ]
+#### [ [github](https://github.com/ky1e-cyber) ] . [ email: sxrose1.o@gmail.com ] . [ tg: @sxrose1 ]
 
-Projects
---------
-
----
-
-TBD
-
-Education
+Education and experience
 ---------
 
 ---
 
-  **\[BSc\]** System Programming at NSU MMD (2022-2024)
+  \[BSc\] Systems Programming at NSU MMD (2022-2024)
 
-  **\[BSc\]** CS & System Design at NSU ITD (2024-present)
+  \[BSc\] CS & System Design at NSU ITD (2024-present)
 
-Interests
----------
-
----
-
-- Compilers
-- Developer toolchains
-- Virtual runtimes & Emulators
+  Trusted compilation research team at YADRO Lab NSU (2024-present)
 
 Skills
 ------
 
 ---
 
-- My main languages: C, OCaml, Python
-- Have some experience with: x86 & RISC-V Asm, C++, Rust, Java, Forth, some Lisp dialects
-- Tools I use: git, bash, make, latex+markdown
+- **My main languages**: C, C++, Haskell, Python
+- **Have some experience with**: x86/amd64 & RISC-V asm, Rust, Java, Forth, some Lisp dialects, SQL
+- **Tools I use**: docker, git, fish, bash, make, markdown
+- **Natural languages**: Russian native, English
 
-- Natural languages: Russian native, English
+Interests and research areas
+---------
+
+---
+
+- Compilers
+- Development and program analysis tools
+- Compiler correctness & security
+- Virtual runtimes & emulators
 
 Involvement
 --------
 
 ---
 
-[BMM 2023 (IDE in resource-constrained environment)](https://bmm2023.mca.nsu.ru/project/41)
+- [NSU Mathematical Workshop](https://bmm.mca.nsu.ru/) 2023 participant (IDE in resource-constrained environment)
+- [YADRO SoC Design Challenge](https://edu.yadro.com/soc-design-challenge/) 2024 participant
+- [YADRO RISC-V Winter School](https://careers.yadro.com/risc-v-school/) 2025 participant (Bootstrap RISC-V)
 
