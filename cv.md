@@ -7,11 +7,9 @@ Education and experience
 
 ---
 
-  \[BSc\] Systems Programming at NSU MMD (2022-2024)
-
-  \[BSc\] CS & System Design at NSU ITD (2024-present)
-
-  Trusted compilation research team at YADRO Lab NSU (2024-present)
+- \[BSc\] Systems Programming at NSU MMD (2022-2024)
+- \[BSc\] CS & System Design at NSU ITD (2024-present)
+- Trusted compilation research team at YADRO Lab NSU (2024-present)
 
 Skills
 ------
@@ -21,6 +19,9 @@ Skills
 - **My main languages**: C, C++, Haskell, Python
 - **Have some experience with**: x86/amd64 & RISC-V asm, Rust, Java, Forth, some Lisp dialects, SQL
 - **Tools I use**: docker, git, fish, bash, make, markdown
+- **Have *some* knowledge in topics**: compiler design, bare-metal programming, formal
+programming theory, computer architecture, basic OS kernel design, hardware design and
+description languages
 - **Natural languages**: Russian native, English
 
 Interests and research areas
