@@ -2,26 +2,39 @@
 
 #### [ [github](https://github.com/ky1e-cyber) ] . [ email: sxrose1.o@gmail.com ] . [ tg: @sxrose1 ]
 
-Education and experience
+Education
 ---------
 
 ---
 
-- \[BSc\] Systems Programming at NSU MMD (2022-2024)
-- \[BSc\] CS & System Design at NSU ITD (2024-present)
-- Trusted compilation research team at YADRO Lab NSU (2024-present)
+- \[BSc\] Systems Programming at Mathematics-mechanics Department NSU (2022-2024)
+- \[BSc\] CS & System Design at Faculty of Information Technology NSU (2024-present)
+
+Experience
+---------
+
+---
+
+- YADRO Lab NSU, Researcher student (2024-present)
+
+Involvement
+--------
+
+---
+
+- [NSU Mathematical Workshop](https://bmm.mca.nsu.ru/) 2023 participant
+- [YADRO SoC Design Challenge](https://edu.yadro.com/soc-design-challenge/) 2024 participant
+- [YADRO RISC-V Winter School](https://careers.yadro.com/risc-v-school/) 2025 participant (Bootstrap RISC-V)
 
 Skills
 ------
 
 ---
 
-- **My main languages**: C, C++, Haskell, Python
-- **Have some experience with**: x86/amd64 & RISC-V asm, Rust, Java, Forth, some Lisp dialects, SQL
-- **Tools I use**: docker, git, fish, bash, make, markdown
-- **Have *some* knowledge in topics**: compiler design, bare-metal programming, formal
-programming theory, computer architecture, basic OS kernel design, hardware design and
-description languages
+- **My main languages**: C, C++, Haskell
+- **Have some experience with**: RISC-V asm, OCaml, Rust, Java, Kotlin, Scala
+- **Tools I use**: Docker, Git, GNU Make, Pandoc
+- **Somewhat experienced and/or knowledgeable in**: compiler design, formal programming theory, programming languages and types theory, computer architecture, bare-metal programming, basic OS kernel design
 - **Natural languages**: Russian native, English
 
 Interests and research areas
@@ -33,13 +46,3 @@ Interests and research areas
 - Development and program analysis tools
 - Compiler correctness & security
 - Virtual runtimes & emulators
-
-Involvement
---------
-
----
-
-- [NSU Mathematical Workshop](https://bmm.mca.nsu.ru/) 2023 participant (IDE in resource-constrained environment)
-- [YADRO SoC Design Challenge](https://edu.yadro.com/soc-design-challenge/) 2024 participant
-- [YADRO RISC-V Winter School](https://careers.yadro.com/risc-v-school/) 2025 participant (Bootstrap RISC-V)
-
